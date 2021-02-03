@@ -3,6 +3,10 @@ body {
   background-color: #ffffff;
 }
 
+img {
+  -webkit-user-drag: none;
+}
+
 .container {
   position: relative;
   width: 279px;
